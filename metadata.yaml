@@ -1,0 +1,34 @@
+_repo: Roast-Beef-Medium--The-Business-Adventures-of-Emma-McChesney_6016
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferber, Edna
+    birthdate: 1885
+    deathdate: 1968
+    gutenberg_agent_id: '193'
+    url: http://www.gutenberg.org/2009/agents/193
+    wikipedia: http://en.wikipedia.org/wiki/Edna_Ferber
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women sales personnel -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Traveling sales personnel -- Fiction'
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcsh 'Businesswomen -- Fiction'
+- !lcsh 'McChesney, Emma (Fictitious character) -- Fiction'
+- !lcsh 'Adventure stories, American'
+- GITenberg
+tableOfContents: Roast beef, medium -- Representing T. A. Buck -- Chickens -- His
+  mother's son -- Pink tights and ginghams -- Simply skirts -- Underneath the high-cut
+  vest -- Catching up with Christmas -- Knee-deep in knickers -- In the absence of
+  the agent.
+title: 'Roast Beef, Medium: The Business Adventures of Emma McChesney'
+url: http://www.gutenberg.org/ebooks/6016
